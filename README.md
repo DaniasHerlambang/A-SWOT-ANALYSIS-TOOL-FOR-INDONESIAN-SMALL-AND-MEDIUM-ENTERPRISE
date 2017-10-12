@@ -41,6 +41,10 @@ The graphical user interface is designed and implemented using Tkinter module PY
 
 can be seen in the article folder
 
+# Application competition achievement
+
+- "PIMNAS" has passed in the research of students all over Indonesia organized by RISTEKDIKTI
+
 # Download the app at the link below
 
 https://app.box.com/s/8zmfdtz2xv7v4tjck6v46o6zv4r9xw1o
