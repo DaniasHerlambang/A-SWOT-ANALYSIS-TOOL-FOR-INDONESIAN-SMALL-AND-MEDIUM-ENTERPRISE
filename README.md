@@ -26,6 +26,8 @@ analysis session so that they can be executed in approximately 15 minutes, compa
 
 4. it displays SME posture and display strategy suggestions
 
+can be seen in the "USER INTERFACE" folder
+
 # Platform
 
 WINDOWS , the software has been converted into a single executable application using Py2exe.
@@ -39,7 +41,7 @@ The graphical user interface is designed and implemented using Tkinter module PY
 - Asian Research Publishing Network (ARPN) , Journal of Engineering and Applied Sciences
 - khazanah Informatika , Jurnal Ilmu Komputer dan Informatika informatika 
 
-can be seen in the article folder
+can be seen in the "article" folder
 
 # Application competition achievement
 
